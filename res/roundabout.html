@@ -1,0 +1,17 @@
+<!-- ###ROUNDABOUT### begin -->
+<ul class="roundabout">
+	<!-- ###ROUNDABOUT_ELEMENT### begin -->
+	<li class="roundabout_element">###ROUNDABOUT_ELEMENT_CONTENT###</li>
+	<!-- ###ROUNDABOUT_ELEMENT### end -->
+</ul>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('ul.roundabout').roundabout({
+		###ROUNDABOUT_SETTINGS###
+		shape: "lazySusan",
+		childSelector: "li",
+		dropEasing: "swing"
+	});
+});
+</script>
+<!-- ###ROUNDABOUT### end -->

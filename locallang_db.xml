@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'pwo_roundabout'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">Roundabout</label>
+			<label index="pi_flexform.sheet_general">General Settings</label>
+			<label index="pi_flexform.field_source">Source</label>
+			<label index="pi_flexform.value_folder">Folder</label>
+			<label index="pi_flexform.value_content">Content Elements</label>
+			<label index="pi_flexform.field_path">Folder Path</label>
+			<label index="pi_flexform.field_content">Contents</label>
+			<label index="pi_flexform.field_width">Block width</label>
+			<label index="pi_flexform.field_height">Block height</label>
+			<label index="pi_flexform.field_template">Template file</label>
+			<label index="pi_flexform.sheet_settings">Roundabout Settings</label>
+			<label index="pi_flexform.sheet_jssettings">Javascript inclusion settings</label>
+			<label index="pi_flexform.field_nojq">Do not include own JQuery library</label>			
+			<label index="pi_flexform.field_nora">Do not include own Roundabout library</label>	
+		</languageKey>
+	</data>
+</T3locallang>

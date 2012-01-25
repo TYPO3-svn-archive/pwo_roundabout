@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_pworoundabout_pi1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="template_missing">Template file &quot;%s&quot; is missing or empty!</label>
+			<label index="error_config">Something is wrong with the typoscript or flexform setup. Please re-check it.</label>
+		</languageKey>
+	</data>
+</T3locallang>
